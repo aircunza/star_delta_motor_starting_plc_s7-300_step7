@@ -90,7 +90,7 @@ The following animation shows the complete operating sequence.
 - Timer countdown
 - Automatic transition to Delta
 
-![image alt](https://github.com/aircunza/star_delta_motor_starting_plc_s7-300_step7/blob/d3045ad9eac53d0aba7eaaa5c9e1a56efce02438/docs/media_assets/simulation.gif)
+![image alt](https://github.com/aircunza/star_delta_motor_starting_plc_s7-300_step7/blob/d3045ad9eac53d0aba7eaaa5c9e1a56efce02438/docs/media_assets/simulation2.gif)
 
 ---
 
